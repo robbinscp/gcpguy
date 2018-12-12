@@ -1,2 +1,2 @@
 # gcpguy
-GCP Guy Home
+GCP Guy Home (c) 2018
